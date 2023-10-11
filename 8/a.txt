@@ -1,0 +1,6 @@
+professor
+berlin
+tokyo
+rio
+denver
+moscow
